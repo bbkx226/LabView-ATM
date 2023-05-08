@@ -17,9 +17,9 @@
 		<Item Name="SubVI" Type="Folder" URL="../SubVI">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Accounts.txt" Type="Document" URL="../Accounts.txt"/>
 		<Item Name="ATM_Client.vi" Type="VI" URL="../ATM_Client.vi"/>
 		<Item Name="ATM_Serv.vi" Type="VI" URL="../ATM_Serv.vi"/>
-		<Item Name="Users.txt" Type="Document" URL="../Users.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
