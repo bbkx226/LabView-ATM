@@ -1,0 +1,64 @@
+05/13/2023 00:32:11	-	The credit card has been successfully inserted
+05/13/2023 00:32:17	-	The administrator has successfully logged in
+05/13/2023 00:32:17	-	The credit card has been successfully inserted
+05/13/2023 00:32:22	-	The administrator has successfully logged out
+05/13/2023 00:32:23	-	The credit card has been successfully inserted
+05/13/2023 00:32:25	-	The administrator has successfully logged in
+05/13/2023 00:32:25	-	The credit card has been successfully inserted
+05/13/2023 01:46:19	-	The credit card has been successfully inserted
+05/13/2023 01:46:21	67094	Login has been successfully authenticated
+05/13/2023 01:46:27	67094	The user has requested to check the account balance
+05/13/2023 01:46:35	67094	The user has terminated the session by clicking the termination button
+05/13/2023 01:46:40	-	The credit card has been successfully inserted
+05/13/2023 01:46:42	12345	Login has been successfully authenticated
+05/13/2023 01:46:55	12345	The inserted amount is outside the acceptable range
+05/13/2023 01:46:59	12345	An unforeseen error has occurred
+05/13/2023 01:47:10	12345	The user has successfully deposited an amount of $600
+05/13/2023 01:47:12	12345	An unforeseen error has occurred
+05/13/2023 01:47:15	12345	An unforeseen error has occurred
+05/13/2023 01:47:20	12345	The inserted amount is outside the acceptable range
+05/13/2023 01:47:23	12345	An unforeseen error has occurred
+05/13/2023 01:47:29	12345	The user has successfully withdrawn an amount of $600
+05/13/2023 01:47:29	12345	The user has initiated a fast cash withdrawal of $50
+05/13/2023 01:47:45	12345	The timeout occurred due to inactivity
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:47:52		The login attempt was unsuccessful
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:47:52		The login attempt was unsuccessful
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:47:52		The login attempt was unsuccessful
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:47:52		The login attempt was unsuccessful
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:47:52		The login attempt was unsuccessful
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:47:52		The login attempt was unsuccessful
+05/13/2023 01:47:52	-	The credit card has been successfully inserted
+05/13/2023 01:48:02	-	The login session has timed out
+05/13/2023 01:48:08	-	The credit card has been successfully inserted
+05/13/2023 01:48:13	-	The credit card has been successfully inserted
+05/13/2023 01:48:23	-	The login session has timed out
+05/13/2023 13:16:04	-	The credit card has been successfully inserted
+05/13/2023 13:16:06	67094	Login has been successfully authenticated
+05/13/2023 13:16:16	67094	The user has terminated the session by clicking the termination button
+05/13/2023 13:16:22	-	The credit card has been successfully inserted
+05/13/2023 20:15:38	-	The credit card has been successfully inserted
+05/13/2023 20:15:39	67094	Login has been successfully authenticated
+05/13/2023 20:15:43	67094	The user has requested to check the account balance
+05/13/2023 20:15:45	67094	The user has initiated a fast cash withdrawal of $50
+05/13/2023 20:15:49	67094	The user has terminated the session by clicking the termination button
+05/13/2023 20:15:53	-	The credit card has been successfully inserted
+05/13/2023 20:16:25	-	The credit card has been successfully inserted
+05/13/2023 20:17:08	-	The credit card has been successfully inserted
+05/13/2023 20:17:10	-	The credit card has been successfully inserted
+05/13/2023 20:17:15	-	The credit card has been successfully inserted
+05/13/2023 20:17:17	-	The credit card has been successfully inserted
+05/13/2023 23:52:50	-	The credit card has been successfully inserted
+05/13/2023 23:52:55	67094	Login has been successfully authenticated
+05/13/2023 23:53:10	67094	The timeout occurred due to inactivity
+05/14/2023 01:14:09	-	The credit card has been successfully inserted
+05/14/2023 01:14:14	67094	Login has been successfully authenticated
+05/14/2023 01:14:29	67094	The timeout occurred due to inactivity
+05/14/2023 01:14:47	-	The credit card has been successfully inserted
+05/14/2023 01:14:49	67094	Login has been successfully authenticated
+05/14/2023 01:15:04	67094	The timeout occurred due to inactivity
