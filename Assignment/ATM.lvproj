@@ -25,6 +25,7 @@
 		<Item Name="CreditCard.wav" Type="Document" URL="../CreditCard.wav"/>
 		<Item Name="Log.txt" Type="Document" URL="../Log.txt"/>
 		<Item Name="Print.wav" Type="Document" URL="../Print.wav"/>
+		<Item Name="Terminate.wav" Type="Document" URL="../Terminate.wav"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="_2DArrToArrWfms.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_2DArrToArrWfms.vi"/>
