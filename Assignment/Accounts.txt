@@ -1,5 +1,5 @@
-12345	Hamza	Yusuf	410
+12345	Hamza	Yusuf	1110
 23456	Naom	Chomsky	200
 34567	Angela	Merkel	500
 45678	Tim	Lee	150
-67094	Brandon	Ban	1750
+67094	Brandon	Ban	1200
